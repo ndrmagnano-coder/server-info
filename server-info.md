@@ -1,3 +1,4 @@
+---
 name: DungeonCore
 slug: dungeoncore
 hidden: false
@@ -12,8 +13,8 @@ versions:
 categories:
   - survival
   - pve
-  - dungeon
   - adventure
+  - dungeon
 
 staff: []
 
@@ -37,12 +38,13 @@ query_port: 25565
 
 theme_color: "#8B0000"
 
-meta_description: "DungeonCore è un server Minecraft PvE con dungeon, avventure e progressione, compatibile con tutte le versioni 1.21.x."
+meta_description: "DungeonCore è un server Minecraft PvE con dungeon e avventure compatibile con tutte le versioni 1.21.x."
 
 meta_keywords:
-  - minecraft server
+  - minecraft
   - dungeoncore
+  - server minecraft
   - minecraft 1.21
-  - server dungeon
-  - minecraft pve
-  - avventura minecraft
+  - dungeon
+  - pve
+---
